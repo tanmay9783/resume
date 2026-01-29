@@ -21,4 +21,4 @@ https://tanmay9783.github.io/resume/
 ## ⚙️ Setup Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/resume-portfolio.git
+   git clone https://github.com/tanmay9783/resume
