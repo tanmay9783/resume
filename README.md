@@ -6,7 +6,8 @@ It showcases my skills, projects, education, and contact information.
 ---
 
 ## 🚀 Live Demo
-(Added after deployment)
+<!-- (Added after deployment) -->
+https://tanmay9783.github.io/resume/
 
 ---
 
